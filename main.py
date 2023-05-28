@@ -3,7 +3,7 @@ import asyncio
 from aioconsole import aprint
 import ssl
 
-# Invite code here
+# https://discord.gg/fuecx38V
 code = "TwilightVault"
 
 async def main():
